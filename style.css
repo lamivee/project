@@ -1,0 +1,15 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.body>div>image{
+    border: 0px;
+    height: 10px;
+    width: 40px;
+}
+
+
+.image{
+    border: 2px #000 solid;
+    border-radius: 0px;
+}
